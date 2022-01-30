@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🌱 I’m currently learning Tailwind CSS, NestJS, AI
+
+⚡ Fun fact: I like tomato! :tomato:
+
 <!--
 **sueshi-lab/sueshi-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
