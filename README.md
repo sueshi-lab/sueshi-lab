@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Tailwind CSS, NestJS, AI
+🌱 I’m currently learning MERN Stack Web Development.
 
 ⚡ Fun fact: I like tomato! :tomato:
 
